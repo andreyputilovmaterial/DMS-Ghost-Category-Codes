@@ -11,3 +11,6 @@ report.*
 !.gitignore
 
 examples/
+
+# Provisional planning notes (e.g. .roadmap-reorder-arguments.md)
+.roadmap-*
